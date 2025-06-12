@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Escuela Normal de Atlacomulco</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eef2f3;
+            margin: 40px;
+            color: #333;
+        }
+        .contenedor {
+            background-color: #fff;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #aaa;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+            color: #2e3b55;
+        }
+        p {
+            line-height: 1.6;
+        }
+        ul {
+            margin-top: 10px;
+            margin-left: 25px;
+        }
+    </style>
+</head>
+<body>
+    <div class="contenedor">
+        <h1>Escuela Normal de Atlacomulco</h1>
+        <p>
+            La <strong>Escuela Normal de Atlacomulco</strong> es una institución educativa ubicada en el municipio de Atlacomulco, 
+            Estado de México. Está dedicada a la formación de futuros docentes de educación básica, principalmente en nivel primaria.
+        </p>
+
+        <p>
+            Ofrece programas de licenciatura en educación con un enfoque en la formación integral del profesorado, 
+            fomentando valores, pensamiento crítico y compromiso social.
+        </p>
+
+        <p><strong>Características principales:</strong></p>
+        <ul>
+            <li>Formación profesional docente.</li>
+            <li>Prácticas escolares en comunidades reales.</li>
+            <li>Programas con enfoque humanista y pedagógico.</li>
+            <li>Vinculación con instituciones educativas estatales y nacionales.</li>
+        </ul>
+
+        <p>
+            Esta institución ha contribuido significativamente al desarrollo educativo de la región norte del Estado de México.
+        </p>
+    </div>
+</body>
+</html>
